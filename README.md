@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **mohamedmagdyrizk203@gmail.com**
 
-🔹 **Problem Solver on Codeforces**  
-Check out my profile: [Codeforces Profile]((https://codeforces.com/profile/Mohamed_Magdy0))
+🔹 **Problem Solver on [Codeforces](https://codeforces.com/profile/Mohamed_Magdy0)**
+
 
 
 <h3 align="left">Languages and Tools:</h3>

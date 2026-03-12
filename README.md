@@ -59,6 +59,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmagdy-203&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=mohamedmagdy-203&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Streak" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmagdy-203&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Langs" height="170" />
 </p>

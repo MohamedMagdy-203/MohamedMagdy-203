@@ -12,12 +12,6 @@
   <a href="https://kaggle.com/mohamedmagdyrizk" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://www.hackerrank.com/mohamedmagdy22" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://codeforces.com/profile/Mohamed_Magdy0" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
 </p>
 
 ---
@@ -29,7 +23,7 @@
 - 💻 Expanding my skill set with core **Software Engineering** principles to write clean, scalable, and production-ready code.
 - 🗣️ **Languages:** Native Arabic speaker & highly proficient in English (Professional Working Proficiency - fully comfortable collaborating in international teams).
 - 🔭 I’m currently building models and participating in competitions on **[Kaggle](https://www.kaggle.com/mohamedmagdyrizk)**.
-- 💡 Passionate about **Problem Solving** (Check out my [Codeforces](https://codeforces.com/profile/Mohamed_Magdy0)!).
+- 💡 Passionate about **Problem Solving** and algorithmic thinking.
 - 📫 How to reach me: **[eng.mohamedmagdyrizk@gmail.com](mailto:eng.mohamedmagdyrizk@gmail.com)**
 
 ---
@@ -65,6 +59,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmagdy-203&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmagdy-203&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&include_all_commits=true" alt="Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmagdy-203&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Langs" height="170" />
 </p>
